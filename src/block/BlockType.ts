@@ -1,0 +1,15 @@
+export enum BlockType {
+	Air = 0,
+	Stone = 1,
+	Grass = 2,
+	Dirt = 3,
+	Cobblestone = 4,
+	Planks = 5,
+	Sapling = 6,
+	Bedrock = 7,
+	FlowingWater = 8,
+	StillWater = 9,
+	FlowingLava = 10,
+	StillLava = 11,
+	Sand = 12,
+}
