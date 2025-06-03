@@ -1,0 +1,5 @@
+{
+	"name": "@housingeditor/housing-minecraft",
+	"version": "0.1.0",
+	"exports": "./mod.ts"
+}

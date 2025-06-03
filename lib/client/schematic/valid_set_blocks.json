@@ -1,0 +1,1058 @@
+[
+	{
+		"name": "Air",
+		"id": 0,
+		"meta": 0,
+		"cid": 0
+	},
+	{
+		"name": "Stone",
+		"id": 1,
+		"meta": 0,
+		"cid": 1
+	},
+	{
+		"name": "Granite",
+		"id": 1,
+		"meta": 1,
+		"cid": 2
+	},
+	{
+		"name": "Polished Granite",
+		"id": 1,
+		"meta": 2,
+		"cid": 3
+	},
+	{
+		"name": "Diorite",
+		"id": 1,
+		"meta": 3,
+		"cid": 4
+	},
+	{
+		"name": "Polished Diorite",
+		"id": 1,
+		"meta": 4,
+		"cid": 5
+	},
+	{
+		"name": "Andesite",
+		"id": 1,
+		"meta": 5,
+		"cid": 6
+	},
+	{
+		"name": "Polished Andesite",
+		"id": 1,
+		"meta": 6,
+		"cid": 7
+	},
+	{
+		"name": "Grass",
+		"id": 2,
+		"meta": 0,
+		"cid": 8
+	},
+	{
+		"name": "Dirt",
+		"id": 3,
+		"meta": 0,
+		"cid": 9
+	},
+	{
+		"name": "Coarse Dirt",
+		"id": 3,
+		"meta": 1,
+		"cid": 10
+	},
+	{
+		"name": "Podzol",
+		"id": 3,
+		"meta": 2,
+		"cid": 11
+	},
+	{
+		"name": "Cobblestone",
+		"id": 4,
+		"meta": 0,
+		"cid": 12
+	},
+	{
+		"name": "Oak Wood Plank",
+		"id": 5,
+		"meta": 0,
+		"cid": 13
+	},
+	{
+		"name": "Spruce Wood Plank",
+		"id": 5,
+		"meta": 1,
+		"cid": 14
+	},
+	{
+		"name": "Birch Wood Plank",
+		"id": 5,
+		"meta": 2,
+		"cid": 15
+	},
+	{
+		"name": "Jungle Wood Plank",
+		"id": 5,
+		"meta": 3,
+		"cid": 16
+	},
+	{
+		"name": "Acacia Wood Plank",
+		"id": 5,
+		"meta": 4,
+		"cid": 17
+	},
+	{
+		"name": "Dark Oak Wood Plank",
+		"id": 5,
+		"meta": 5,
+		"cid": 18
+	},
+	{
+		"name": "Bedrock",
+		"id": 7,
+		"meta": 0,
+		"cid": 19
+	},
+	{
+		"name": "Sand",
+		"id": 12,
+		"meta": 0,
+		"cid": 20
+	},
+	{
+		"name": "Red Sand",
+		"id": 12,
+		"meta": 1,
+		"cid": 21
+	},
+	{
+		"name": "Gravel",
+		"id": 13,
+		"meta": 0,
+		"cid": 22
+	},
+	{
+		"name": "Gold Ore",
+		"id": 14,
+		"meta": 0,
+		"cid": 23
+	},
+	{
+		"name": "Iron Ore",
+		"id": 15,
+		"meta": 0,
+		"cid": 24
+	},
+	{
+		"name": "Coal Ore",
+		"id": 16,
+		"meta": 0,
+		"cid": 25
+	},
+	{
+		"name": "Oak Wood",
+		"id": 17,
+		"meta": 0,
+		"cid": 26
+	},
+	{
+		"name": "Spruce Wood",
+		"id": 17,
+		"meta": 1,
+		"cid": 27
+	},
+	{
+		"name": "Birch Wood",
+		"id": 17,
+		"meta": 2,
+		"cid": 28
+	},
+	{
+		"name": "Jungle Wood",
+		"id": 17,
+		"meta": 3,
+		"cid": 29
+	},
+	{
+		"name": "Oak Leaves",
+		"id": 18,
+		"meta": 0,
+		"cid": 30
+	},
+	{
+		"name": "Spruce Leaves",
+		"id": 18,
+		"meta": 1,
+		"cid": 31
+	},
+	{
+		"name": "Birch Leaves",
+		"id": 18,
+		"meta": 2,
+		"cid": 32
+	},
+	{
+		"name": "Sponge",
+		"id": 19,
+		"meta": 0,
+		"cid": 33
+	},
+	{
+		"name": "Jungle Leaves",
+		"id": 18,
+		"meta": 3,
+		"cid": 34
+	},
+	{
+		"name": "Wet Sponge",
+		"id": 19,
+		"meta": 1,
+		"cid": 35
+	},
+	{
+		"name": "Glass",
+		"id": 20,
+		"meta": 0,
+		"cid": 36
+	},
+	{
+		"name": "Lapis Lazuli Ore",
+		"id": 21,
+		"meta": 0,
+		"cid": 37
+	},
+	{
+		"name": "Lapis Lazuli Block",
+		"id": 22,
+		"meta": 0,
+		"cid": 38
+	},
+	{
+		"name": "Dispenser",
+		"id": 23,
+		"meta": 0,
+		"cid": 39
+	},
+	{
+		"name": "Sandstone",
+		"id": 24,
+		"meta": 0,
+		"cid": 40
+	},
+	{
+		"name": "Chiseled Sandstone",
+		"id": 24,
+		"meta": 1,
+		"cid": 41
+	},
+	{
+		"name": "Smooth Sandstone",
+		"id": 24,
+		"meta": 2,
+		"cid": 42
+	},
+	{
+		"name": "Note Block",
+		"id": 25,
+		"meta": 0,
+		"cid": 43
+	},
+	{
+		"name": "Sticky Piston",
+		"id": 29,
+		"meta": 0,
+		"cid": 44
+	},
+	{
+		"name": "Piston",
+		"id": 33,
+		"meta": 0,
+		"cid": 45
+	},
+	{
+		"name": "White Wool",
+		"id": 35,
+		"meta": 0,
+		"cid": 46
+	},
+	{
+		"name": "Orange Wool",
+		"id": 35,
+		"meta": 1,
+		"cid": 47
+	},
+	{
+		"name": "Magenta Wool",
+		"id": 35,
+		"meta": 2,
+		"cid": 48
+	},
+	{
+		"name": "Light Blue Wool",
+		"id": 35,
+		"meta": 3,
+		"cid": 49
+	},
+	{
+		"name": "Yellow Wool",
+		"id": 35,
+		"meta": 4,
+		"cid": 50
+	},
+	{
+		"name": "Lime Wool",
+		"id": 35,
+		"meta": 5,
+		"cid": 51
+	},
+	{
+		"name": "Pink Wool",
+		"id": 35,
+		"meta": 6,
+		"cid": 52
+	},
+	{
+		"name": "Gray Wool",
+		"id": 35,
+		"meta": 7,
+		"cid": 53
+	},
+	{
+		"name": "Light Gray Wool",
+		"id": 35,
+		"meta": 8,
+		"cid": 54
+	},
+	{
+		"name": "Cyan Wool",
+		"id": 35,
+		"meta": 9,
+		"cid": 55
+	},
+	{
+		"name": "Purple Wool",
+		"id": 35,
+		"meta": 10,
+		"cid": 56
+	},
+	{
+		"name": "Blue Wool",
+		"id": 35,
+		"meta": 11,
+		"cid": 57
+	},
+	{
+		"name": "Brown Wool",
+		"id": 35,
+		"meta": 12,
+		"cid": 58
+	},
+	{
+		"name": "Green Wool",
+		"id": 35,
+		"meta": 13,
+		"cid": 59
+	},
+	{
+		"name": "Red Wool",
+		"id": 35,
+		"meta": 14,
+		"cid": 60
+	},
+	{
+		"name": "Black Wool",
+		"id": 35,
+		"meta": 15,
+		"cid": 61
+	},
+	{
+		"name": "Gold Block",
+		"id": 41,
+		"meta": 0,
+		"cid": 62
+	},
+	{
+		"name": "Iron Block",
+		"id": 42,
+		"meta": 0,
+		"cid": 63
+	},
+	{
+		"name": "Stone Slab",
+		"id": 44,
+		"meta": 0,
+		"cid": 64
+	},
+	{
+		"name": "Sandstone Slab",
+		"id": 44,
+		"meta": 1,
+		"cid": 65
+	},
+	{
+		"name": "Cobblestone Slab",
+		"id": 44,
+		"meta": 3,
+		"cid": 66
+	},
+	{
+		"name": "Brick Slab",
+		"id": 44,
+		"meta": 4,
+		"cid": 67
+	},
+	{
+		"name": "Stone Brick Slab",
+		"id": 44,
+		"meta": 5,
+		"cid": 68
+	},
+	{
+		"name": "Nether Brick Slab",
+		"id": 44,
+		"meta": 6,
+		"cid": 69
+	},
+	{
+		"name": "Quartz Slab",
+		"id": 44,
+		"meta": 7,
+		"cid": 70
+	},
+	{
+		"name": "Bricks",
+		"id": 45,
+		"meta": 0,
+		"cid": 71
+	},
+	{
+		"name": "Bookshelf",
+		"id": 47,
+		"meta": 0,
+		"cid": 72
+	},
+	{
+		"name": "Moss Stone",
+		"id": 48,
+		"meta": 0,
+		"cid": 73
+	},
+	{
+		"name": "Obsidian",
+		"id": 49,
+		"meta": 0,
+		"cid": 74
+	},
+	{
+		"name": "Oak Wood Stairs",
+		"id": 53,
+		"meta": 0,
+		"cid": 75
+	},
+	{
+		"name": "Diamond Ore",
+		"id": 56,
+		"meta": 0,
+		"cid": 76
+	},
+	{
+		"name": "Diamond Block",
+		"id": 57,
+		"meta": 0,
+		"cid": 77
+	},
+	{
+		"name": "Crafting Table",
+		"id": 58,
+		"meta": 0,
+		"cid": 78
+	},
+	{
+		"name": "Furnace",
+		"id": 61,
+		"meta": 0,
+		"cid": 79
+	},
+	{
+		"name": "Cobblestone Stairs",
+		"id": 67,
+		"meta": 0,
+		"cid": 80
+	},
+	{
+		"name": "Redstone Ore",
+		"id": 73,
+		"meta": 0,
+		"cid": 81
+	},
+	{
+		"name": "Ice",
+		"id": 79,
+		"meta": 0,
+		"cid": 82
+	},
+	{
+		"name": "Snow Block",
+		"id": 80,
+		"meta": 0,
+		"cid": 83
+	},
+	{
+		"name": "Clay",
+		"id": 82,
+		"meta": 0,
+		"cid": 84
+	},
+	{
+		"name": "Pumpkin",
+		"id": 86,
+		"meta": 0,
+		"cid": 85
+	},
+	{
+		"name": "Netherrack",
+		"id": 87,
+		"meta": 0,
+		"cid": 86
+	},
+	{
+		"name": "Soul Sand",
+		"id": 88,
+		"meta": 0,
+		"cid": 87
+	},
+	{
+		"name": "Glowstone",
+		"id": 89,
+		"meta": 0,
+		"cid": 88
+	},
+	{
+		"name": "Jack o'Lantern",
+		"id": 91,
+		"meta": 0,
+		"cid": 89
+	},
+	{
+		"name": "White Stained Glass",
+		"id": 95,
+		"meta": 0,
+		"cid": 90
+	},
+	{
+		"name": "Orange Stained Glass",
+		"id": 95,
+		"meta": 1,
+		"cid": 91
+	},
+	{
+		"name": "Magenta Stained Glass",
+		"id": 95,
+		"meta": 2,
+		"cid": 92
+	},
+	{
+		"name": "Light Blue Stained Glass",
+		"id": 95,
+		"meta": 3,
+		"cid": 93
+	},
+	{
+		"name": "Yellow Stained Glass",
+		"id": 95,
+		"meta": 4,
+		"cid": 94
+	},
+	{
+		"name": "Lime Stained Glass",
+		"id": 95,
+		"meta": 5,
+		"cid": 95
+	},
+	{
+		"name": "Pink Stained Glass",
+		"id": 95,
+		"meta": 6,
+		"cid": 96
+	},
+	{
+		"name": "Gray Stained Glass",
+		"id": 95,
+		"meta": 7,
+		"cid": 97
+	},
+	{
+		"name": "Light Gray Stained Glass",
+		"id": 95,
+		"meta": 8,
+		"cid": 98
+	},
+	{
+		"name": "Cyan Stained Glass",
+		"id": 95,
+		"meta": 9,
+		"cid": 99
+	},
+	{
+		"name": "Purple Stained Glass",
+		"id": 95,
+		"meta": 10,
+		"cid": 100
+	},
+	{
+		"name": "Blue Stained Glass",
+		"id": 95,
+		"meta": 11,
+		"cid": 101
+	},
+	{
+		"name": "Brown Stained Glass",
+		"id": 95,
+		"meta": 12,
+		"cid": 102
+	},
+	{
+		"name": "Green Stained Glass",
+		"id": 95,
+		"meta": 13,
+		"cid": 103
+	},
+	{
+		"name": "Red Stained Glass",
+		"id": 95,
+		"meta": 14,
+		"cid": 104
+	},
+	{
+		"name": "Black Stained Glass",
+		"id": 95,
+		"meta": 15,
+		"cid": 105
+	},
+	{
+		"name": "Stone Bricks",
+		"id": 98,
+		"meta": 0,
+		"cid": 106
+	},
+	{
+		"name": "Mossy Stone Bricks",
+		"id": 98,
+		"meta": 1,
+		"cid": 107
+	},
+	{
+		"name": "Cracked Stone Bricks",
+		"id": 98,
+		"meta": 2,
+		"cid": 108
+	},
+	{
+		"name": "Chiseled Stone Bricks",
+		"id": 98,
+		"meta": 3,
+		"cid": 109
+	},
+	{
+		"name": "Melon Block",
+		"id": 103,
+		"meta": 0,
+		"cid": 110
+	},
+	{
+		"name": "Brick Stairs",
+		"id": 108,
+		"meta": 0,
+		"cid": 111
+	},
+	{
+		"name": "Stone Brick Stairs",
+		"id": 109,
+		"meta": 0,
+		"cid": 112
+	},
+	{
+		"name": "Mycelium",
+		"id": 110,
+		"meta": 0,
+		"cid": 113
+	},
+	{
+		"name": "Nether Brick",
+		"id": 112,
+		"meta": 0,
+		"cid": 114
+	},
+	{
+		"name": "Nether Brick Stairs",
+		"id": 114,
+		"meta": 0,
+		"cid": 115
+	},
+	{
+		"name": "End Portal Frame",
+		"id": 120,
+		"meta": 0,
+		"cid": 116
+	},
+	{
+		"name": "End Stone",
+		"id": 121,
+		"meta": 0,
+		"cid": 117
+	},
+	{
+		"name": "Dragon Egg",
+		"id": 122,
+		"meta": 0,
+		"cid": 118
+	},
+	{
+		"name": "Redstone Lamp (inactive)",
+		"id": 123,
+		"meta": 0,
+		"cid": 119
+	},
+	{
+		"name": "Oak Wood Slab",
+		"id": 126,
+		"meta": 0,
+		"cid": 120
+	},
+	{
+		"name": "Spruce Wood Slab",
+		"id": 126,
+		"meta": 1,
+		"cid": 121
+	},
+	{
+		"name": "Birch Wood Slab",
+		"id": 126,
+		"meta": 2,
+		"cid": 122
+	},
+	{
+		"name": "Jungle Wood Slab",
+		"id": 126,
+		"meta": 3,
+		"cid": 123
+	},
+	{
+		"name": "Acacia Wood Slab",
+		"id": 126,
+		"meta": 4,
+		"cid": 124
+	},
+	{
+		"name": "Dark Oak Wood Slab",
+		"id": 126,
+		"meta": 5,
+		"cid": 125
+	},
+	{
+		"name": "Sandstone Stairs",
+		"id": 128,
+		"meta": 0,
+		"cid": 126
+	},
+	{
+		"name": "Emerald Ore",
+		"id": 129,
+		"meta": 0,
+		"cid": 127
+	},
+	{
+		"name": "Emerald Block",
+		"id": 133,
+		"meta": 0,
+		"cid": 128
+	},
+	{
+		"name": "Spruce Wood Stairs",
+		"id": 134,
+		"meta": 0,
+		"cid": 129
+	},
+	{
+		"name": "Birch Wood Stairs",
+		"id": 135,
+		"meta": 0,
+		"cid": 130
+	},
+	{
+		"name": "Jungle Wood Stairs",
+		"id": 136,
+		"meta": 0,
+		"cid": 131
+	},
+	{
+		"name": "Redstone Block",
+		"id": 152,
+		"meta": 0,
+		"cid": 132
+	},
+	{
+		"name": "Nether Quartz Ore",
+		"id": 153,
+		"meta": 0,
+		"cid": 133
+	},
+	{
+		"name": "Quartz Block",
+		"id": 155,
+		"meta": 0,
+		"cid": 134
+	},
+	{
+		"name": "Chiseled Quartz Block",
+		"id": 155,
+		"meta": 1,
+		"cid": 135
+	},
+	{
+		"name": "Pillar Quartz Block",
+		"id": 155,
+		"meta": 2,
+		"cid": 136
+	},
+	{
+		"name": "Quartz Stairs",
+		"id": 156,
+		"meta": 0,
+		"cid": 137
+	},
+	{
+		"name": "Dropper",
+		"id": 158,
+		"meta": 0,
+		"cid": 138
+	},
+	{
+		"name": "White Hardened Clay",
+		"id": 159,
+		"meta": 0,
+		"cid": 139
+	},
+	{
+		"name": "Orange Hardened Clay",
+		"id": 159,
+		"meta": 1,
+		"cid": 140
+	},
+	{
+		"name": "Magenta Hardened Clay",
+		"id": 159,
+		"meta": 2,
+		"cid": 141
+	},
+	{
+		"name": "Light Blue Hardened Clay",
+		"id": 159,
+		"meta": 3,
+		"cid": 142
+	},
+	{
+		"name": "Yellow Hardened Clay",
+		"id": 159,
+		"meta": 4,
+		"cid": 143
+	},
+	{
+		"name": "Lime Hardened Clay",
+		"id": 159,
+		"meta": 5,
+		"cid": 144
+	},
+	{
+		"name": "Pink Hardened Clay",
+		"id": 159,
+		"meta": 6,
+		"cid": 145
+	},
+	{
+		"name": "Gray Hardened Clay",
+		"id": 159,
+		"meta": 7,
+		"cid": 146
+	},
+	{
+		"name": "Light Gray Hardened Clay",
+		"id": 159,
+		"meta": 8,
+		"cid": 147
+	},
+	{
+		"name": "Cyan Hardened Clay",
+		"id": 159,
+		"meta": 9,
+		"cid": 148
+	},
+	{
+		"name": "Purple Hardened Clay",
+		"id": 159,
+		"meta": 10,
+		"cid": 149
+	},
+	{
+		"name": "Blue Hardened Clay",
+		"id": 159,
+		"meta": 11,
+		"cid": 150
+	},
+	{
+		"name": "Brown Hardened Clay",
+		"id": 159,
+		"meta": 12,
+		"cid": 151
+	},
+	{
+		"name": "Green Hardened Clay",
+		"id": 159,
+		"meta": 13,
+		"cid": 152
+	},
+	{
+		"name": "Red Hardened Clay",
+		"id": 159,
+		"meta": 14,
+		"cid": 153
+	},
+	{
+		"name": "Black Hardened Clay",
+		"id": 159,
+		"meta": 15,
+		"cid": 154
+	},
+	{
+		"name": "Acacia Leaves",
+		"id": 161,
+		"meta": 0,
+		"cid": 155
+	},
+	{
+		"name": "Dark Oak Leaves",
+		"id": 161,
+		"meta": 1,
+		"cid": 156
+	},
+	{
+		"name": "Acacia Wood",
+		"id": 162,
+		"meta": 0,
+		"cid": 157
+	},
+	{
+		"name": "Dark Oak Wood",
+		"id": 162,
+		"meta": 1,
+		"cid": 158
+	},
+	{
+		"name": "Acacia Wood Stairs",
+		"id": 163,
+		"meta": 0,
+		"cid": 159
+	},
+	{
+		"name": "Dark Oak Wood Stairs",
+		"id": 164,
+		"meta": 0,
+		"cid": 160
+	},
+	{
+		"name": "Slime Block",
+		"id": 165,
+		"meta": 0,
+		"cid": 161
+	},
+	{
+		"name": "Barrier",
+		"id": 166,
+		"meta": 0,
+		"cid": 162
+	},
+	{
+		"name": "Prismarine",
+		"id": 168,
+		"meta": 0,
+		"cid": 163
+	},
+	{
+		"name": "Prismarine Bricks",
+		"id": 168,
+		"meta": 1,
+		"cid": 164
+	},
+	{
+		"name": "Dark Prismarine",
+		"id": 168,
+		"meta": 2,
+		"cid": 165
+	},
+	{
+		"name": "Sea Lantern",
+		"id": 169,
+		"meta": 0,
+		"cid": 166
+	},
+	{
+		"name": "Hay Bale",
+		"id": 170,
+		"meta": 0,
+		"cid": 167
+	},
+	{
+		"name": "Hardened Clay",
+		"id": 172,
+		"meta": 0,
+		"cid": 168
+	},
+	{
+		"name": "Block of Coal",
+		"id": 173,
+		"meta": 0,
+		"cid": 169
+	},
+	{
+		"name": "Packed Ice",
+		"id": 174,
+		"meta": 0,
+		"cid": 170
+	},
+	{
+		"name": "Red Sandstone",
+		"id": 179,
+		"meta": 0,
+		"cid": 171
+	},
+	{
+		"name": "Chiseled Red Sandstone",
+		"id": 179,
+		"meta": 1,
+		"cid": 172
+	},
+	{
+		"name": "Smooth Red Sandstone",
+		"id": 179,
+		"meta": 2,
+		"cid": 173
+	},
+	{
+		"name": "Red Sandstone Stairs",
+		"id": 180,
+		"meta": 0,
+		"cid": 174
+	},
+	{
+		"name": "Red Sandstone Slab",
+		"id": 182,
+		"meta": 0,
+		"cid": 175
+	}
+]
